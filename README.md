@@ -18,7 +18,7 @@ The **Resume Category Prediction** app is a machine learning-based **Streamlit**
 - **TF-IDF Vectorizer** – For text feature extraction
 - **Support Vector Classifier (SVC)** – For classification
 - **Pickle** – For model storage
-- **PyPDF2 & python-docx** – For text extraction from resumes
+- **PyPDF2 & python-docx** – For text extraction from resume.
 
 ## ⚡ Setup & Installation
 1. **Clone the Repository**
